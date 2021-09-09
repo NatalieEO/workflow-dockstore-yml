@@ -1,1 +1,6 @@
-{}
+{
+  "hello_input": {
+    "path": "https://raw.githubusercontent.com/dockstore/dockstore/1.0/README.md",
+    "class": "File"
+  }
+}
