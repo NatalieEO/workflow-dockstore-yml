@@ -1,1 +1,10 @@
-{}
+{
+  "ref_file_1": {
+    "path": "https://raw.githubusercontent.com/dockstore/dockstore/1.0/README.md",
+    "class": "File"
+  },
+  "ref_file_2": {
+    "path": "https://raw.githubusercontent.com/dockstore/dockstore/1.0/README.md",
+    "class": "File"
+  }
+}
